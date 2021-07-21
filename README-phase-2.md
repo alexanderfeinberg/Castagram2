@@ -28,5 +28,5 @@ By this point, your code could be getting a little bit messy within
 __index.js__. Try DRYing up your code and keeping everything as SOLID as
 possible.
 
-[starter]: https://github.com/appacademy/practice-for-week-09-catstagram-long-practice-day-2
+[starter]: https://github.com/appacademy/practice-for-week-09-catsagram-long-practice-day-2
 [FormData]: https://developer.mozilla.org/en-US/docs/Web/API/FormData
