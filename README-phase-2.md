@@ -20,8 +20,8 @@ original image.
 Second, for the active image, allow the user to upvote/downvote the image and
 display the score (upvotes - downvotes).
 
-Third, allow the user to add comments to the image. You may want to look into
-the [FormData] API if you're looking to use `form`.
+Third, allow the user to add comments to the image. You want to access the value 
+of the comment input field and append a new element representing the comment. 
 
 Whenever a new image is requested, the upvotes and comments should be reset.
 
@@ -33,5 +33,4 @@ __index.js__. Try DRYing up your code and keep in mind the Single Responsibility
 Principle.
 
 [starter]: https://github.com/appacademy/practice-for-week-09-catsagram-long-practice-day-2
-[FormData]: https://developer.mozilla.org/en-US/docs/Web/API/FormData
 [http://localhost:5000]: http://localhost:5000
